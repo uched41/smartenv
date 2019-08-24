@@ -1,0 +1,4 @@
+**/innoenv
+*.swp
+/ros_ws/src/smartenv/scripts/yolo_files/yolov3.weights
+/ros_ws/src/smartenv/scripts/yolo_files/yolov3.weights
